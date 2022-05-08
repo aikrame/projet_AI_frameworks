@@ -48,3 +48,9 @@ Pour le livrable:
  [Generating Personalized Recipes from Historical User Preferences
 Bodhisattwa Prasad Majumder*, Shuyang Li*, Jianmo Ni, Julian McAuley
 EMNLP, 2019](https://www.aclweb.org/anthology/D19-1613/)
+
+#### Auteurs : 
+* AMINE Ikrame
+* LE CHEVERE Marie
+La commande pour lancer le script :  
+python main.py --weights='weights.pth' --test_data='test_script.csv'
